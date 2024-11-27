@@ -6,7 +6,7 @@ Desafios de reactJS, landing page creada con componentes y haciendo uso de props
   - npm install -D tailwindcss
   - npx tailwindcss init
 
--Y pegar lo siguiente en el archivo css del documento:
+- Y pegar lo siguiente en el archivo css del documento:
   - @tailwind base;
     @tailwind components;
     @tailwind utilities;
