@@ -10,3 +10,6 @@ Desafios de reactJS, landing page creada con componentes y haciendo uso de props
   - @tailwind base;
     @tailwind components;
     @tailwind utilities;
+
+- Luego ejecutar el siguiente comando para ejecutar el proyecto:
+  - npm start   
